@@ -84,7 +84,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴀꜱʜ-ᴍᴅ",
 thumbnailUrl: "https://i.ibb.co/7NLvnZkq/SulaMd.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
+sourceUrl: "https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e ",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -100,7 +100,7 @@ contextInfo: {
 externalAdReply: {
 title: "ᴀꜱʜ-ᴍᴅ",
 thumbnailUrl: "https://i.ibb.co/7NLvnZkq/SulaMd.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
+sourceUrl: "https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e ",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
