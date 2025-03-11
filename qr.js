@@ -78,7 +78,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴀꜱʜ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
+thumbnailUrl: "https://i.ibb.co/7NLvnZkq/SulaMd.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e ",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -94,7 +94,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
+thumbnailUrl: "https://i.ibb.co/7NLvnZkq/SulaMd.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e ",
 mediaType: 2,
 renderLargerThumbnail: true,
